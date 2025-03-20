@@ -37,7 +37,7 @@ pip install pymatgen==2024.8.9 torch==2.4.1 torch-geometric==2.6.0 mendeleev==0.
 
 ## Usage
 1. Ensure that input crystal structures are formatted as **CIF** files and the symmetry is converted to **P1**.
-2. Download the pretrained SETC files `models.zip` from [zenodo](10.5281/zenodo.15058335) & extract in the SETC-GAT directory.
+2. Download the pretrained SETC files `models.zip` from [zenodo]((https://zenodo.org/uploads/15058335)) & extract in the SETC-GAT directory.
 3. Run any (or a combination) of the following commands on a CIF file OR directory containing CIF files based on your desired error type label output. Change the --node_features argument to allow for calculation of different node features (i.e. `atomic`, `localenv`, `mosaec`) & combinations (i.e. chemist).
 
 **Multi-Label Error Type Classification**
