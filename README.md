@@ -1,6 +1,6 @@
 # Structure Error Type Classification (SETC)
 
-[![Article](https://flat.badgen.net/static/Article/10.1039%2Fd5sc05477j/blue/)](https://doi.org/10.1039/d5sc05477j)
+[![Article](https://flat.badgen.net/static/Article/10.XXXX%2FXXXXXXXXXX/blue/)](https://doi.org/10.XXXX/XXXXXXXXXX)
 [![Zenodo](https://flat.badgen.net/static/Zenodo/10.5281%2Fzenodo.F1505840/orange/)](https://doi.org/10.5281/zenodo.15058403)
 ![Python](https://flat.badgen.net/static/Python/3.9%20|%203.11/green/)
 [![Formatter](https://flat.badgen.net/static/Code%20Format/black/black)](https://black.readthedocs.io/en/stable/)
