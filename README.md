@@ -1,11 +1,12 @@
 # Structure Error Type Classification (SETC)
 
-[![Preprint](https://flat.badgen.net/static/Preprint/10.XXXXX%2Fchemrxiv-2025-tbdXX/nblue/)](https://doi.org/10.XXXXX/chemrxiv-2025-tbdXX)
+[![Article](https://flat.badgen.net/static/Article/TBD/blue/)](https://doi.org/10.XXXXX/XXXX)
+[![Zenodo](https://flat.badgen.net/static/Zenodo/10.5281%2zenodo.F1505840/orange/)](https://doi.org/10.5281/zenodo.15058403)
 ![Python](https://flat.badgen.net/static/Python/3.9%20|%203.11/green/)
 [![Formatter](https://flat.badgen.net/static/Code%20Format/black/black)](https://black.readthedocs.io/en/stable/)
 
 <p align="center">
-    <img src="misc/logo.png" alt="samosa" width="300">
+    <img src="misc/toc.jpg" alt="toc" width="600">
 </p>
 
 This repository provides utilities to predict crystal structures error types (i.e. relating to protons, charge, disorder) in periodic crystal structures, primarily metal-organic frameworks (MOF). Pretrained Graph Attention (GAT) Network models trained on a manually inspected set of experimental MOFs are provided using various node featurization approaches. Comprehensive details regarding this methodology may be found in the publication at the attached doi.
@@ -31,7 +32,7 @@ pip install -r requirements.txt
 ```
 **OR**
 ```
-pip install pymatgen==2024.8.9 torch==2.4.1 torch-geometric==2.6.0 mendeleev==0.17.0
+pip install pymatgen==2024.7.18 torch==2.4.1 torch-geometric==2.6.0 mendeleev==0.17.0
 ```
 
 
