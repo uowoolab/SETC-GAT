@@ -27,7 +27,7 @@ parser.add_argument(
     nargs="+",
     default=["atomic"],
     choices=["atomic", "mosaec", "localenv", "chemist"],
-    help="select node feature combination",
+    help="select node feature combination.",
 )
 parser.add_argument(
     "--binary",
@@ -47,7 +47,7 @@ parser.add_argument(
 parser.add_argument(
     "--store_graphs",
     action="store_true",
-    help="wave graphs as .pt files",
+    help="save graphs as .pt files",
 )
 parser.add_argument(
     "--log_level",
