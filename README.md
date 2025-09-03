@@ -1,6 +1,6 @@
 # Structure Error Type Classification (SETC)
 
-[![Article](https://flat.badgen.net/static/Article/10.XXXX%2FXXXXXXXXXX/blue/)](https://doi.org/10.XXXX/XXXXXXXXXX)
+[![Article](https://flat.badgen.net/static/Article/10.1039%2FD5TA05426E/blue/)](https://doi.org/10.1039/D5TA05426E)
 [![Zenodo](https://flat.badgen.net/static/Zenodo/10.5281%2Fzenodo.F1505840/orange/)](https://doi.org/10.5281/zenodo.15058403)
 ![Python](https://flat.badgen.net/static/Python/3.9%20|%203.11/green/)
 [![Formatter](https://flat.badgen.net/static/Code%20Format/black/black)](https://black.readthedocs.io/en/stable/)
@@ -71,7 +71,7 @@ User may invoke the `--store_graphs` option to save the structure graph files in
 The [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) applies to the utilization of the SETC models. Follow the license guidelines regarding the use, sharing, adaptation, and attribution of this data.
 
 ## Citation
-Complete details relating to the appropriate citation are not currently available, and will be updated in the future. Please contact the authors listed in the Contact section before referring to this work in any publication.
+Please cite [this article](https://doi.org/10.1039/D5TA05426E) when referring to the SETC models or any of the associated work in any publication.
 
 ## Contact
 Reach out to any of the following authors with any questions:
